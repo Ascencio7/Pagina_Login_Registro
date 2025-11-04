@@ -2,9 +2,9 @@
 
 <br>
 
-## 💻​ Paginas de Login y Registro
+## 👤​​ Login y Registro
 
-**Páginas sencillas sobre Login y Registro**
+**Página sencilla sobre Login y Registro**
 
 <picture>
   <img align="right" src="https://cdna.artstation.com/p/assets/images/images/052/141/832/original/johan-cediel-rodriguez-pixel-art-take-008.gif?1659036879?raw=true" width="200"/>
@@ -13,9 +13,9 @@
 
 Este repositorio contiene **plantillas** que facilitan la comprensión de los conceptos necesarios para diseñar una plantilla decente.
 
-✅ HTML <br>
-✅ CSS personalizado <br>
-✅ JS <br>
+✅ HTML básico con etiquetas básicas <br>
+✅ CSS personalizado, breves animaciones y efectos<br>
+✅ JS con funciones sencillas para el cambio de contenido con links <br>
 
 ---
 
@@ -36,7 +36,7 @@ Este proyecto está diseñado como práctica de **Diseño Web**, enfocado en ent
 ## Login
 
 <figure>
-  <img src="/images/funcionActualizar.png" alt="CPU y Almacenamiento" style="max-width: 600px; display:block; margin:auto;">
+  <img src="/cap/login.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
 <br>
@@ -44,7 +44,7 @@ Este proyecto está diseñado como práctica de **Diseño Web**, enfocado en ent
 ## Registro
 
 <figure>
-  <img src="/images/funcionPDF.png" alt="Generacion de reportes PDF" style="max-width: 600px; display:block; margin:auto;">
+  <img src="/cap/register.png" alt="Captura de pantalla del registro" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
 <br>
